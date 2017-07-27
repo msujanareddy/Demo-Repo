@@ -1,0 +1,2 @@
+this is a file for reset commands
+changed the file from staging area
